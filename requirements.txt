@@ -1,0 +1,11 @@
+# python >= 3.7
+
+fastapi
+uvicorn
+odmantic
+pymongo[srv]
+aiofiles
+jinja2
+
+flake8
+black
